@@ -23,18 +23,10 @@ Frontend/UI: Streamlit
 
 Backend Logic: Python
 
-Machine Learning: Cosine Similarity
 
-API: TMDB (The Movie Database)
-
-Libraries Used:
-pandas
-pickle
-requests
 
 Screenshots
-![App Landing Page](Screenshot (189).png
-)
+![App Landing Page](https://github.com/RahulDev661/Movie-Recommendation-/blob/main/Screenshot%20(189).png?raw=true)
 
 
 
