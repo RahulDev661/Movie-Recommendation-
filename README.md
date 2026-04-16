@@ -11,7 +11,7 @@ Discover movies similar to your favorites with a beautiful, modern UI.
 🌙 Modern Netflix-style dark UI
 
 Screenshots
-![App Landing Page](https://github.com/RahulDev661/Movie-Recommendation-/blob/main/Screenshot%20(189).png?raw=true)
+[App Landing Page](https://github.com/RahulDev661/Movie-Recommendation-/blob/main/Screenshot%20(189).png?raw=true)
 
 
 
