@@ -6,27 +6,13 @@ Discover movies similar to your favorites with a beautiful, modern UI.
 
 📌 Features
 🎥 Select any movie from the list
-
 🤖 Get top 5 similar movie recommendations
-
 🖼️ Movie posters fetched using TMDB API
-
 🌙 Modern Netflix-style dark UI
-
-⚡ Fast and responsive interface
-
-🛠️ Tech Stack
-
-
-
-Frontend/UI: Streamlit
-
-Backend Logic: Python
-
-
 
 Screenshots
 ![App Landing Page](https://github.com/RahulDev661/Movie-Recommendation-/blob/main/Screenshot%20(189).png?raw=true)
+
 
 
 
