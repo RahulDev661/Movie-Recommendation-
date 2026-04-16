@@ -47,5 +47,5 @@ Streamlit for the amazing framework
 👨‍💻 Author
 
 Rahul Dev
-📧 (Add your email)
-🌐 (Add LinkedIn/GitHub)
+📧 rahuldevbera098@gmail.com
+🌐 (https://www.linkedin.com/feed/)
