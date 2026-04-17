@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 
 # Set page configuration
-st.set_page_config(page_title="Movie Recommender", layout="wide", page_icon="🍿")
+st.set_page_config(page_title="Movie Recommendation", layout="wide", page_icon="🍿")
 
 def fetch_poster(movie_id):
     try:
