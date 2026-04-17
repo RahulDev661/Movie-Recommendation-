@@ -60,7 +60,7 @@ h1 {
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🍿 Rahul's- Movie Recommender")
+st.title("🍿 Rahul's- Movie Recommendation")
 st.markdown("<h4 style='text-align: center; color: grey;'>Discover your next favorite movie!</h4>", unsafe_allow_html=True)
 st.markdown("---")
 
