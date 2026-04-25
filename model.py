@@ -12,7 +12,7 @@ credits = pd.read_csv('tmdb_5000_credits.csv')
 movies = movies.merge(credits, on='title')
 
 # Select important columns
-movies = movies[['movie_id','title','overview','genres','keywords','cast','crew']]
+movies = movies[['movie_id','title','overview','genres','cast','crew']]
 
 # Drop null values
 movies.dropna(inplace=True)
